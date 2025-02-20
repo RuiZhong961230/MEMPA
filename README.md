@@ -8,12 +8,11 @@ Marine Predator Algorithm (MPA) is a recently proposed population-based metaheur
 @article{Wang:25,  
 title = {Multi-strategy Enhanced Marine Predator Algorithm: Performance Investigation and Application in Intrusion Detection},  
 journal = {Journal of Big Data},  
-volume = {},  
-pages = {},  
+volume = {12},  
+pages = {1-36},  
 year = {2025},  
-doi = {},  
+doi = {10.1186/s40537-025-01080-2 },  
 author = {Zhongmin Wang and Yujun Zhang and Jun Yu and YuanYuan Gao and Guangwei Zhao and Essam H. Houssein and Rui Zhong},  
-note = {Accepted}  
 }
 
 ## Datasets and Libraries
