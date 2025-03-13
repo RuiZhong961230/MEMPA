@@ -16,4 +16,7 @@ author = {Zhongmin Wang and Yujun Zhang and Jun Yu and YuanYuan Gao and Guangwei
 }
 
 ## Datasets and Libraries
-CEC benchmarks and Engineering problems are provided by opfunu and enoppy libraries, respectively. The NSL-KDD dataset is downloaded from https://www.kaggle.com/datasets/hassan06/nslkdd.
+CEC benchmarks and Engineering problems are provided by opfunu==1.0.0 and enoppy==0.1.1 libraries, respectively. The NSL-KDD dataset is downloaded from https://www.kaggle.com/datasets/hassan06/nslkdd.
+
+## Contact
+If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp
